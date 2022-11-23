@@ -2,7 +2,7 @@
 Calculator         
 
 
-## Project-1: [Live-Link](https://calculatorjavascriptdom.netlify.app/)
+## Project-3: [Live-Link](https://calculatorjavascriptdom.netlify.app/)
 
 ## Screenshot:
 
